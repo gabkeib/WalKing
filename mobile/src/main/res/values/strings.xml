@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">WalKing</string>
+    <string name="pointview">Collected points</string>
+    <string name="save">Saving status</string>
+    <string name="difsave">Save stats</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="steps">Steps</string>
+    <string name="points">Points</string>
+    <string name="date">Date</string>
+    <string name="distance">Distance</string>
+    <string name="calc">Calculate the route</string>
+    <string name="stop">Stop counting</string>
+    <string name="start">Start counting</string>
+    <string name="startt">Start counting</string>
+    <string name="results">Results</string>
+    <string name="map">map</string>
+    <string name="left">To get point: </string>
+    <string name="mapp">Map</string>
+    <string name="home">Home</string>
+    <string name="data">Data</string>
+</resources>

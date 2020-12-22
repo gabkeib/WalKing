@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Third_time.iml" filepath="$PROJECT_DIR$/Third_time.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mobile/Third_time.mobile.iml" filepath="$PROJECT_DIR$/.idea/modules/mobile/Third_time.mobile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wear/Third_time.wear.iml" filepath="$PROJECT_DIR$/.idea/modules/wear/Third_time.wear.iml" />
+    </modules>
+  </component>
+</project>
