@@ -1,6 +1,6 @@
 # WalKing
 Step Counter with few additional features for Android OS.
-## What does this application?
+## What can be done in this application?
 Posibilities in this application:
 * Count steps
 * Give points for specific amount of collected steps
