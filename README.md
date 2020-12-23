@@ -16,3 +16,10 @@ This application has a Android Room (SQLite) database and Google Maps SDK implem
 * Improved step recognition
 * Cloud data saving
 
+## Images of application
+<p float="left">
+  <img src="/1.png" width="100" />
+  <img src="/2.png" width="100" /> 
+  <img src="/3.png" width="100" />
+  <img src="/4.png" width="100" />
+</p>
