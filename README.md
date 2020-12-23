@@ -7,12 +7,12 @@ Posibilities in this application:
 * Save every day data into table
 * Given map which shows POIs with short story and photo about them (This time only shows in a city Anykščiai, Lithuania)
 
-## What was used?
+## What was used to make it?
 This application has a Android Room (SQLite) database and Google Maps SDK implementation. To learn how to use these features, Google tutorials were used for learning and coding.
 
 ## What can be added?/Future perspectives
 * A leaderboard
 * Better map implementation
-* Improved step count accuracy
+* Improved step recognition
 * Cloud data saving
 
